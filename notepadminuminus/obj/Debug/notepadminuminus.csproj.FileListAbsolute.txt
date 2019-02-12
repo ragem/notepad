@@ -1,0 +1,10 @@
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\bin\Debug\notepadminuminus.exe.config
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\bin\Debug\notepadminuminus.exe
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\bin\Debug\notepadminuminus.pdb
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.csprojResolveAssemblyReference.cache
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.Form1.resources
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.Properties.Resources.resources
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.csproj.GenerateResource.Cache
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.csproj.CoreCompileInputs.cache
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.exe
+C:\Users\Edgars\source\repos\notepadminuminus\notepadminuminus\obj\Debug\notepadminuminus.pdb
